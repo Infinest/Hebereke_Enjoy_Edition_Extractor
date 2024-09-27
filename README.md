@@ -1,6 +1,6 @@
 # Hebereke Enjoy Edition Extractor
 
-This console application allows the extracting a Famicom ROM of the original game from the [Steam re-release](https://store.steampowered.com/app/2869000).
+This console application allows extracting a Famicom ROM of the original game from the [Steam re-release](https://store.steampowered.com/app/2869000).
 It also offers the ability to automatically apply a fixed [NES 2.0 header](https://www.nesdev.org/wiki/NES_2.0) to the extracted ROM making it 1:1 equivalent to the ROM cataloged in the [No-Intro set](https://datomatic.no-intro.org/index.php?page=show_record&s=45&n=0942).
 
 ## Usage
