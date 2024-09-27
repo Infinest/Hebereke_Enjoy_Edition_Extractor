@@ -55,7 +55,7 @@ namespace Hebereke_Enjoy_Edition_Extractor
                 bool gotResult = false;
                 do
                 {
-                    Console.WriteLine("Would you like to apply a fixed (NES 2.0) ROM header?");
+                    Console.WriteLine("Would you like to apply a fixed (NES 2.0) ROM header? (y/n)");
                     ConsoleKeyInfo key = Console.ReadKey();
                     switch (key.Key)
                     {
